@@ -7,3 +7,8 @@ theme = 'PaperMod'
 Title = "Welcome to my notes :)"
 Content = "You can know me more here."
 
+[menus]
+  [[menus.main]]
+    name = 'Search'
+    pageRef = '/search'
+    weight = 1
