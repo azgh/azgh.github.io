@@ -2,3 +2,15 @@ baseURL = 'https://go.aznotes.me/'
 languageCode = 'en-us'
 title = 'Aaron Notes'
 theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = "Welcome to my notes :)"
+Content = "You can know me more here."
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/azgh"
+
+[[params.socialIcons]]
+name = "X"
+url = "https://x.com"
