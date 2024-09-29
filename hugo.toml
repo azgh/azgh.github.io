@@ -17,3 +17,5 @@ Content = "You can know me more here."
 defaultTheme = "auto"
 ShowBreadCrumbs = true
 ShowReadingTime = true
+ShowShareButtons = true
+ShowCodeCopyButtons = true
