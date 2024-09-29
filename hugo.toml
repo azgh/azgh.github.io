@@ -1,0 +1,4 @@
+baseURL = 'https://go.aznotes.me/'
+languageCode = 'en-us'
+title = 'Aaron Notes'
+theme = 'PaperMod'
