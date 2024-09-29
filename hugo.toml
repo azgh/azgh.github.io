@@ -4,16 +4,20 @@ title = 'Aaron Notes'
 theme = 'PaperMod'
 
 [params.homeInfoParams]
-Title = "Welcome to my notes :)"
-Content = "You can know me more here."
+Title = "Welcome :)"
+Content = "This is my personal notes. I write about my learning and experience. I hope you find it useful."
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/azgh"
+url = "https://github.com/"
 
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/"
+
+[[params.socialIcons]]
+name = "x"
+url = "https://x.com/"
 
 
 [menus]
