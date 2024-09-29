@@ -32,3 +32,5 @@ ShowBreadCrumbs = true
 ShowReadingTime = true
 ShowShareButtons = true
 ShowCodeCopyButtons = true
+disableThemeToggle = true
+searchHidden = true
