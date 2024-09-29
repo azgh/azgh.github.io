@@ -7,6 +7,15 @@ theme = 'PaperMod'
 Title = "Welcome to my notes :)"
 Content = "You can know me more here."
 
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/azgh"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/"
+
+
 [menus]
   [[menus.main]]
     name = 'Search'
