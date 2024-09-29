@@ -7,20 +7,3 @@ theme = 'PaperMod'
 Title = "Welcome to my notes :)"
 Content = "You can know me more here."
 
-[[params.socialIcons]]
-name = "Github"
-url = "https://github.com/azgh"
-
-[[params.socialIcons]]
-name = "X"
-url = "https://x.com"
-
-[outputs]
-home = [ "HTML", "RSS", "JSON" ]
-
-[params]
-ShowBreadCrumbs = true
-
-[Params]
-ShowReadingTime = true
-
