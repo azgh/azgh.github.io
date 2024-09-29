@@ -18,3 +18,5 @@ url = "https://x.com"
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
+[params]
+ShowBreadCrumbs = true
